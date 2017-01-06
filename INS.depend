@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1483727062 source:c:\users\gan\github\ins\3d.cpp
+	"SDL2/SDL.h"
+	<math.h>
+	<stdlib.h>
+	"3D.h"
+	"draw.h"
+	"ASICC.h"
+	<string.h>
+	<stdio.h>
+
+1476186472 c:\users\gan\github\ins\3d.h
+
+1482597299 c:\users\gan\github\ins\draw.h
+
+1414160836 c:\users\gan\github\ins\asicc.h
+
+1481906668 source:c:\users\gan\github\ins\draw.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_syswm.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"draw.h"
+	"touch.h"
+	"3D.h"
+
+1451022022 c:\users\gan\github\ins\touch.h
+
+1414469068 source:c:\users\gan\github\ins\icon.rc
+
+1483727972 source:c:\users\gan\github\ins\main.cpp
+	<time.h>
+	<math.h>
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<string.h>
+	"3D.h"
+	"draw.h"
+	"touch.h"
+	"objloader.h"
+	<windows.h>
+	<inttypes.h>
+	"rs232.h"
+
+1481905743 c:\users\gan\github\ins\objloader.h
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	"objloader.h"
+	<stdio.h>
+
+1383127037 c:\users\gan\github\ins\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<windows.h>
+
+1481906455 source:c:\users\gan\github\ins\objloader.cpp
+	"objloader.h"
+	<stdio.h>
+	<memory.h>
+	<float.h>
+
+1388058372 source:c:\users\gan\github\ins\rs232.c
+	"rs232.h"
+
+1476880570 source:c:\users\gan\github\ins\touch.cpp
+	<SDL2/SDL.h>
+	<pthread.h>
+	"touch.h"
+	<memory.h>
+	<time.h>
+	<math.h>
+
